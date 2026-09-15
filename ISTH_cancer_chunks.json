@@ -1,0 +1,487 @@
+[
+  {
+    "text": "> Received: 21 March 2019 <u>| Accepted: 14 May 2019</u> DOI: 10.1111/jth.14478",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "(no section)",
+      "chunk_type": "prose",
+      "source_line": 1
+    },
+    "chunk_id": 0
+  },
+  {
+    "text": "Aurelien Delluc<sup>1</sup> | Tzu‐Fei Wang<sup>2</sup> | Eng‐Soo Yap<sup>3</sup> | Cihan Ay<sup>4</sup> | Jordan Schaefer<sup>5</sup> | Marc Carrier<sup>1</sup> | Simon Noble<sup>6</sup> 1Department of Medicine, Ottawa Hospital Research Institute at the University of Ottawa, Ottawa, Ontario, Canada 2Division of Hematology, Department of Internal Medicine, Ohio State University Wexner Medical Center, Columbus, Ohio 3Department of Haematology‐Oncology, National University Cancer Institute, National University Health System, Singapore 4Clinical Division of Haematology and Haemostaseology, Department of Medicine I, Medical University of Vienna, Comprehensive Cancer Center Vienna, Vienna, Austria 5Division of Hematology and Oncology, University of Michigan, Ann Arbor, Michigan",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH",
+      "chunk_type": "prose",
+      "source_line": 9
+    },
+    "chunk_id": 1
+  },
+  {
+    "text": "6Marie Curie Palliative Care Research Centre, Cardiff University, Cardiff, Wales, UK",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH",
+      "chunk_type": "prose",
+      "source_line": 21
+    },
+    "chunk_id": 2
+  },
+  {
+    "text": "Simon Noble, Marie Curie Palliative Care Research Centre, 8th Floor Neuadd Meirionydd, Cardiff University, Heath Park, Campus CF14 4YS, Wales, UK. Email: NobleSI1@wales.nhs.uk",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > Correspondence",
+      "chunk_type": "prose",
+      "source_line": 25
+    },
+    "chunk_id": 3
+  },
+  {
+    "text": "Atrial fibrillation is the most common cardiac arrhythmia, affecting approximately 1.5% to 2% of the general population, increasing by a further 1.8% in the presence of cancer.<sup>1</sup> Atrial fibrillation becomes more prevalent with age and increases the overall risk of embolic stroke five‐fold.<sup>2,3</sup> Anticoagulation has long been established as the most effective way to prevent embolic stroke, but this is challenging in the cancer setting since it is associated with a higher rate of clini‐ cally relevant non‐major and major bleeding.<sup>4</sup> Cancer patients often have additional risk factors for bleeding, independent of anticoagu‐ lation, including thrombocytopenia, use of non‐steroidal antiinflam‐ matory drugs or antiplatelet agents, or renal dysfunction.<sup>5</sup>",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1 | BACKGROUND",
+      "chunk_type": "prose",
+      "source_line": 29
+    },
+    "chunk_id": 4
+  },
+  {
+    "text": "Approximately one‐third of all cancer patients will receive che‐ motherapy.<sup>6</sup> This poses further risks to the safety and efficacy of anticoagulation, depending on the choice of anticoagulant. First, it is well established that many chemotherapeutic agents increase the risk of both arterial and venous thrombosis. Second, chemotherapy regimens may independently increase the risk of bleeding, espe‐ cially those that induce thrombocytopenia.<sup>5</sup> The increasing use of targeted anticancer therapies such as tyrosine kinase inhibitors and monoclonal antibodies targeting vascular endothelial growth factor (VEGF) can be associated with an increased risk of bleeding due to > Final decision: Marcel Levi, 14 May 2019",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1 | BACKGROUND",
+      "chunk_type": "prose",
+      "source_line": 31
+    },
+    "chunk_id": 5
+  },
+  {
+    "text": "off‐target kinase inhibition resulting in platelet dysfunction<sup>7,8</sup> or the inhibition of angiogenesis pathways. Finally, all anticoagulants that are licensed for NVAF have potential to interact with some chemo‐ therapy and supportive care drugs, increasing the risk of bleeding or stroke depending on their metabolic pathways. Chemotherapy can further increase the risk of developing NVAF; cisplatin, melphalan, and cyclophosphamide appear to be associated with a risk of 15% to 30%.<sup>1</sup> Similarly, monoclonal antibodies (e.g. trastuzumab) and targeted cancer therapies (e.g. ibrutinib) are asso‐ ciated with an increased incidence of NVAF due to their off‐target effects.<sup>9‒11</sup> Compared with those without, cancer patients with new‐ onset NVAF have a two‐fold increased risk of thromboembolism.<sup>12</sup>",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1 | BACKGROUND",
+      "chunk_type": "prose",
+      "source_line": 35
+    },
+    "chunk_id": 6
+  },
+  {
+    "text": "Clinical decision‐making tools to inform anticoagulation in NVAF are well established in the general population and embedded in clin‐ ical practice.<sup>13‒15</sup> While tools such as CHA2DS2‐VASC, HAS‐BLED, and HEMORR2HAGES are validated to stratify according to stroke or bleeding risk in NVAF, they do not take into consideration the additional risks conferred by the malignant state, the heterogeneity of cancer, or the varying thrombotic/bleeding risks associated with chemotherapy. The BleedMAP score is derived from retrospective analysis of 2484 cases of oral anticoagulant interruptions and is the only bleeding risk tool to include cancer as an independent risk fac‐ tor (HR, 1.8; 95% CI, 1.0‐3.1).<sup>16</sup> There are very few data to quantify the risk of ischemic stroke due to cancer accurately. One study using Surveillance Epidemiology and End Results (SEER) Medicare linked data of 279 719 patients with a new primary diagnosis of breast,",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1 | BACKGROUND",
+      "chunk_type": "prose",
+      "source_line": 39
+    },
+    "chunk_id": 7
+  },
+  {
+    "text": "Manuscript handled by: Marcel Levi © 2019 International Society on Thrombosis and<sup><u>|</u></sup> 1247 Haemostasis _J Thromb Haemost._ 2019;17:1247–1252. wileyonlinelibrary.com/journal/jth DELLUC Et aL.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1 | BACKGROUND",
+      "chunk_type": "prose",
+      "source_line": 41
+    },
+    "chunk_id": 8
+  },
+  {
+    "text": "lung, prostate, colorectal, bladder, pancreatic, and gastric cancer ob‐ served a 1‐year stroke incidence up to 6.3%.<sup>17</sup> Another study using data of 327 389 newly diagnosed cancer patients showed the risk of stroke differed among different cancers with a 1‐year cumulative stroke incidence of 3.6% (prostate), 3.9% (breast), 4.7% (colorectal), and 8.1% (lung).<sup>18</sup> In summary, the management of anticoagulation regimens in can‐ cer patients receiving chemotherapy is unclear. There are no current guideline recommendations and wide variation in clinical practice.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1 | BACKGROUND > 1248 |",
+      "chunk_type": "prose",
+      "source_line": 53
+    },
+    "chunk_id": 9
+  },
+  {
+    "text": "There are limited data regarding anticoagulation for cancer patients with NVAF receiving chemotherapy. Consequently, in formulating these guidance statements, data from other populations or clinical scenarios have been extrapolated and considered in the context of: - Efficacy (stroke prevention) - Safety (major bleeding, clinically relevant non‐major bleeding) - Drug‐drug interactions (chemotherapy and supportive care drugs) - Patient preference and quality of life",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1 | Current evidence for antithrombotic therapy in non‐valvular atrial fibrillation in cancer patients",
+      "chunk_type": "prose",
+      "source_line": 59
+    },
+    "chunk_id": 10
+  },
+  {
+    "text": "Vitamin K antagonists (VKAs) such as warfarin reduce the risk of stroke by two‐thirds in patients with NVAF when compared to pa‐ tients on aspirin or placebo.<sup>19</sup> However, cancer patients receiving warfarin be it for NVAF or venous thromboembolism (VTE) have worse anticoagulation control and worse outcomes compared with cancer‐free controls, including a six‐fold increase in bleeding rates.<sup>20‒22</sup> Furthermore, the development of cancer in patients on long‐term warfarin is associated with a significant reduction in the time in therapeutic range, particularly within the first 6 months of cancer diagnosis.<sup>23</sup> Moreover, its use is further complicated through food and drug‐drug interactions by the following mechanisms: - Induction or inhibition of cytochrome P450 isozymes - Displacement of binding from plasma proteins - Alterations in vitamin K status",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.1 | Vitamin K antagonists",
+      "chunk_type": "prose",
+      "source_line": 71
+    },
+    "chunk_id": 11
+  },
+  {
+    "text": "Despite these challenges, warfarin has been the mainstay of anticoag‐ ulation for NVAF for many years. Warfarin requires frequent monitor‐ ing of the international normalized ratio, which has been shown to have a negative impact on quality of life.<sup>24</sup>",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.1 | Vitamin K antagonists",
+      "chunk_type": "prose",
+      "source_line": 79
+    },
+    "chunk_id": 12
+  },
+  {
+    "text": "Four direct oral anticoagulants (DOACs) are approved and indicated for stroke/systemic embolism prevention in patients with NVAF, although their approval for use varies across countries. These in‐ clude the direct thrombin inhibitor dabigatran and the factor Xa",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.2 | Direct oral anticoagulants",
+      "chunk_type": "prose",
+      "source_line": 83
+    },
+    "chunk_id": 13
+  },
+  {
+    "text": "inhibitors rivaroxaban, apixaban, and edoxaban. The advantages of DOACs include predictable pharmacokinetics and rapid onset and offset, which facilitate the management of anticoagulation in case of invasive procedure. Several trials have demonstrated that DOACs are at least as effective as warfarin in the prevention of stroke/systemic embolism in patients with NVAF.<sup>25‒28</sup> A metaanal‐ ysis of these trials showed that DOACs significantly reduced stroke or systemic embolic events by 19% compared with warfa‐ rin (RR 0.81; 95% CI 0.73‐0.91; _P_ < .0001), which was mainly due to a reduction in hemorrhagic stroke (RR 0.49; 95% CI 0.38‐0.64; _P_ < .0001).<sup>29</sup> The DOACs also reduced all‐cause mortality (0.90, 0.85‐0.95; _P_ = .0003) and intracranial hemorrhage (0.48, 0.39‐0.59; _P_ < .0001), but increased gastrointestinal bleeding (1.25, 1.01‐1.55; _P_ = .04).",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.2 | Direct oral anticoagulants",
+      "chunk_type": "prose",
+      "source_line": 85
+    },
+    "chunk_id": 14
+  },
+  {
+    "text": "Most of these studies excluded cancer patients directly (RELY and ENGAGE studies) or indirectly (ROCKET AF and ARISTOLE studies), by excluding patients with an expected survival less than 1 or 2 years. Therefore, whether these results could be extrapolated to cancer patients is unknown. However, secondary analyses of these studies in patients with or without a history of cancer or in pa‐ tients who developed cancer after enrollment have shed some light on DOAC use in the cancer population. In the ROCKET AF study, the efficacy and safety of rivaroxaban and warfarin in 460 patients with history of cancer were similar to those in patients without can‐ cer.<sup>30</sup> In the ATRISTOLE study, the safety and efficacy advantages of apixaban over warfarin in patients without a history of cancer were preserved in those with a cancer history.<sup>31</sup> Similarly, a recent anal‐ ysis of the ENGAGE AF‐TIMI 48 trial identified 1153 patients who developed new or recurrent malignancy after randomization and revealed that edoxaban was as effective and safe as warfarin in this subgroup.<sup>32</sup> A recent comparative effectiveness analysis of DOACs versus warfarin in 16 096 cancer patients with AF identified in the MarketScan database showed that the risk of bleeding and ischemic stroke in patients receiving DOACs was similar to that with warfarin, except for apixaban, which was associated with a lower risk of bleed‐ ing. Furthermore, all DOACs were shown to have reduced risk of VTE complications compared with warfarin.<sup>33</sup> As with all retrospec‐ tive claims in database analyses, the results need to be interpreted with caution.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.2 | Direct oral anticoagulants",
+      "chunk_type": "prose",
+      "source_line": 87
+    },
+    "chunk_id": 15
+  },
+  {
+    "text": "All DOACs are substrates for the excretory permeability gly‐ coprotein (P‐gp) system, while only apixaban and rivaroxaban are also mainly metabolized via hepatic cytochrome P450 (CYP) 3A4. As such, the use of DOACs concomitantly with drugs that are in‐ hibitors or inducers of P‐gp or CYP3A4 might result in variability in the extent of anticoagulation, as well as potentially affecting can‐ cer therapies. This potential drug‐drug interaction was taken into account in the HOKUSAI cancer‐VTE study, where patients with cancer‐associated VTE assigned to edoxaban received a reduced dose when they also received concomitant treatment with potent P‐gp inhibitors.<sup>34</sup> Specific attention to potential interactions with cancer therapy should be paid when choosing a DOAC for stroke/ systemic embolism prevention in NVAF patients with cancer. Where cancer therapies exert strong induction/inhibition of both P‐gp and",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.2 | Direct oral anticoagulants",
+      "chunk_type": "prose",
+      "source_line": 89
+    },
+    "chunk_id": 16
+  },
+  {
+    "text": "<u>| 1249</u> DELLUC Et aL. CYP3A4, it would make sense to observe caution with all DOACs, while interaction with P‐gp alone should alert caution to just apix‐ aban and rivaroxaban. One final consideration should be the application of bleeding data from studies comparing DOACs with low‐molecular‐weight heparin (LMWH) for the treatment and secondary prophylaxis of VTE.<sup>34,35</sup> On the basis of major bleeding data, caution is advised when using DOACs in patients with “luminal gastrointestinal can‐ cers with an intact primary or patients with active gastrointestinal mucosal abnormalities such as duodenal ulcers, gastritis, esophagitis or colitis.”<sup>36</sup> Intuitively it would seem sensible to observe a similar caution with anticoagulation for NVAF, particularly during chemo‐ therapy, when the risk of bleeding is higher.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.2 | Direct oral anticoagulants",
+      "chunk_type": "prose",
+      "source_line": 91
+    },
+    "chunk_id": 17
+  },
+  {
+    "text": "There is little evidence to support the use of LMWH for long‐term stroke prophylaxis in patients with NVAF regardless of the presence or nonpresence of cancer. Data are limited to its use as a periopera‐ tive‐bridging agent for patients on warfarin.<sup>37</sup> Despite demonstrat‐ ing non‐inferiority compared with placebo with respect to stroke events, LMWH bridging was associated with a three‐fold increase in bleeding compared with placebo.<sup>38</sup> It is a matter of debate as to whether perioperative bridging data are sufficient to justify using LMWH to “bridge” anticoagula‐ tion during chemotherapy. In these studies, patients rarely received LMWH for more than 2 weeks.<sup>38</sup> Since many chemotherapy regi‐ mens are given over several months, it is difficult to surmise whether long‐term use of once‐daily LMWH for this indication will be effec‐ tive or safe.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.3 | Low‐molecular‐weight heparin",
+      "chunk_type": "prose",
+      "source_line": 101
+    },
+    "chunk_id": 18
+  },
+  {
+    "text": "Owing to the paucity of data supporting the use of LMWH to prevent embolic stroke in NVAF, its long‐term use for other condi‐ tions has also been reviewed. Data from the use of LMWH for treat‐ ment of cancer‐associated VTE give some indication of bleeding risks, assuming similar doses are used for stroke prophylaxis. The use of data from those studies also has the advantage that many patients with metastatic disease who were receiving chemotherapy were included. In a metaanalysis of eight studies comparing LMWH with warfarin, the major bleeding rate with LMWH and warfarin was 4.3% and 4.1%, respectively.<sup>39</sup>",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.1.3 | Low‐molecular‐weight heparin",
+      "chunk_type": "prose",
+      "source_line": 105
+    },
+    "chunk_id": 19
+  },
+  {
+    "text": "The heterogeneity of cancer extends beyond the disease and its stage and treatment. When making decisions about treatment regimens that have competing attributes (in this case the risk of stroke and risk of bleeding) clinicians have a responsibility to con‐ sider these within the context of individual patient preferences and values. These are likely to be influenced by their previous ex‐ periences, understanding, and wishes for the future. Quality of life studies regarding anticoagulation and cancer have predominantly focused on the treatment and secondary prophylaxis of VTE.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.2 | Clinical decision making and patient preferences",
+      "chunk_type": "prose",
+      "source_line": 109
+    },
+    "chunk_id": 20
+  },
+  {
+    "text": "These have suggested LMWH to be acceptable within the context of the cancer course, in part, because patients place most value on anticoagulants that interfere least with their cancer treat‐ ment.<sup>40‒42</sup> However, while anticoagulation for VTE may be time limited, for NVAF it is usually indefinite. Arguably convenience in relation to quality of lifehas an even greater emphasis when choosing an anticoagulant for NVAF. Most patients on long‐term anticoagulation will prefer oral rather than parenteral medication, although they may well be willing to accept parenteral medication in the short term if indicated, for example, during chemotherapy. Studies also suggest that patients place considerable trust in the advice of their clinicians, highlighting the importance of exploring what matters most to patients.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.2 | Clinical decision making and patient preferences",
+      "chunk_type": "prose",
+      "source_line": 111
+    },
+    "chunk_id": 21
+  },
+  {
+    "text": "In keeping with the mantra “Primum non nocere,” it would be remiss not to consider whether there are situations when the pos‐ sible benefit from chemotherapy may be less than the harm from more serious complications associated with NVAF, its comorbidities, and complicating stable anticoagulation. The use of adjuvant che‐ motherapy is standard in many cancer regimens because of estab‐ lished benefits in terms of overall and progression‐free survival.<sup>43</sup> For some cancers, however, the survival improvements may only be modest and when balanced against an unfavorable toxicity profile, the role of adjuvant treatments has been controversial.<sup>44</sup> In such pa‐ tients receiving anticoagulation therapy for NVAF, particularly those with high CHA2DS2‐VASC, HAS‐BLED scores, the increased risk of bleeding, stroke, and drug‐drug interactions may pose a greater threat to mortality/morbidity than the benefits afforded by the chemotherapy.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.2 | Clinical decision making and patient preferences",
+      "chunk_type": "prose",
+      "source_line": 113
+    },
+    "chunk_id": 22
+  },
+  {
+    "text": "Finally, even when the risk/benefit ratio favors the concomitant use of anticoagulants and SACT, it is important to recognize that the risk profiles of bleeding and stroke are not static entities; they will change over time according to alterations in platelet count, associ‐ ated comorbidities, and disease response. As such, the use of both chemotherapy and anticoagulation should be regularly evaluated ac‐ cording to changes in treatment plans and clinical status.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.2 | Clinical decision making and patient preferences",
+      "chunk_type": "prose",
+      "source_line": 115
+    },
+    "chunk_id": 23
+  },
+  {
+    "text": "The initial phase of clinical decision making will center on (a) whether anticoagulation is indicated and (b) the class of anticoagulant to be used. On the basis of current published data for DOAC use across various indications, it is clear that the four DOACS licensed for NVAF have sufficient clinical differences that it would be remiss to recom‐ mend them as a class without considering circumstances that may favor one over another. Table 1 offers a comparative summary of characteristics, which may be considered when choosing one agent over another. For example, trial and observational data suggest that apixaban may be safer with respect to gastrointestinal bleed‐ ing risk, while rivaroxaban and edoxaban have the strongest phase 4 published data. Furthermore, while all DOACS have interaction potential with P‐gp, edoxaban arguably has the most robust evi‐ dence base with respect to dose reduction in the presence of P‐gp drugs, since this was prespecified in ENGAGE‐AF and HOKUSAI and",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.3 | Clinical decision making/choice of DOAC",
+      "chunk_type": "prose",
+      "source_line": 119
+    },
+    "chunk_id": 24
+  },
+  {
+    "text": "1250 | DELLUC Et aL. TA B LE 1 Comparison of different attributes of different DOACs when considering anticoagulation for NVAF in patients with cancer",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.3 | Clinical decision making/choice of DOAC",
+      "chunk_type": "prose",
+      "source_line": 121
+    },
+    "chunk_id": 25
+  },
+  {
+    "text": "DOAC | Once or: twice a day | Renal elimination | Hepatic elimination",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.3 | Clinical decision making/choice of DOAC",
+      "chunk_type": "reference_table",
+      "source_lines": [
+        129
+      ]
+    },
+    "chunk_id": 26
+  },
+  {
+    "text": "Abbreviations: CAT, cancer‐associated thrombosis; CYP3A4, Cytochrome P450 3A4; DOACs, direct oral anticoagulants; NVAF, non‐valvular atrial fibrillation; P‐gp, P glycoprotein; RCT, randomized control trial. HOKUSAI‐Cancer studies. However, it should be noted that new data continue to emerge, especially with respect to safety outcomes.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.3 | Clinical decision making/choice of DOAC",
+      "chunk_type": "prose",
+      "source_line": 137
+    },
+    "chunk_id": 27
+  },
+  {
+    "text": "The guidance statements included in this document are predicated on the following premises:",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.3.1 | Guidance statements",
+      "chunk_type": "prose",
+      "source_line": 143
+    },
+    "chunk_id": 28
+  },
+  {
+    "text": "3. In cancer patients on chemotherapy with newly diagnosed NVAF, with the exception of patients with luminal gastrointestinal can‐ cers with an intact primary or patients with active gastrointes‐ tinal mucosal abnormalities such as duodenal ulcers, gastritis, esophagitis, or colitis, we suggest the use of a DOAC over a VKA or LMWH as anticoagulant therapy if no clinically relevant drug‐ to‐drug interactions are expected. - For each of the clinical situations described herein, these guid‐ ance statements are applicable to an average patient using stan‐ dard, licensed doses. There may be exceptional circumstances for which these guidance statements do not apply, and anticoagulant management, including drug dosing and frequency, would be at the treating physician's discretion. - The wording “we recommend” reflects a strong guidance state‐ ment, whereby the clinician should adopt the practice in most cases. - The wording “we suggest” reflects a weak guidance statement, whereby the clinician may adopt the practice in some cases and an alternative practice also may be acceptable.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.3.1 | Guidance statements",
+      "chunk_type": "recommendation",
+      "recommendation_number": "3",
+      "source_line": 145
+    },
+    "chunk_id": 29
+  },
+  {
+    "text": "1. We recommend individualized anticoagulation regimens after shared decision making with patients, based wherever possible on risk of stroke, bleeding, and patient values.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement",
+      "chunk_type": "recommendation",
+      "recommendation_number": "1",
+      "source_line": 155
+    },
+    "chunk_id": 30
+  },
+  {
+    "text": "2. In cancer patients with NVAF already on an anticoagulant regi‐ men before starting chemotherapy, we recommend continuing the same anticoagulation regimen unless there are clinically rel‐ evant drug‐drug interactions. - a In cancer patients on chemotherapies with clinically relevant VKA interactions, we suggest considering a DOAC if no addi‐ tional drug‐drug interactions with DOAC or close monitoring of VKA (target international normalized ratio between 2 and 3). - b In cancer patients on chemotherapies unable to tolerate an oral route of administration (e.g. nausea and vomiting), we suggest the use of parenteral anticoagulation with therapeutic dosing of LMWH with resumption of oral anticoagulation as soon as possible.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement",
+      "chunk_type": "recommendation",
+      "recommendation_number": "2",
+      "source_line": 157
+    },
+    "chunk_id": 31
+  },
+  {
+    "text": "M. Carrier is the recipient of the Tier 2 Research Chair from the University of Ottawa in Cancer and Thrombosis; S. Noble holds a Marie Curie Chair in Supportive and Palliative Care from Cardiff University.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > ACKNOWLEDGMENTS",
+      "chunk_type": "prose",
+      "source_line": 165
+    },
+    "chunk_id": 32
+  },
+  {
+    "text": "Dr. Aurelien Delluc reports he has participated as a member of the Advisory Board for Sanofi Aventis, Leo Pharma, Bayer, and Pfizer/ Bristol‐Myers Squibb; has received speaker honoraria from Bayer, Pfizer/Bristol‐Myers Squibb, LEO Pharma; and is participating in or has participated in a clinical trial within the past 2 years with Leo Pharma, Bristol‐Myers Squibb, Bayer; Dr. Tzu‐Fei Wang reports non‐financial support from Daiichi Sankyo during the conduct of the study; another from Pfizer/BMS, outside the submitted work; Dr. Eng‐Soo Yap participated as a member of an Advisory Board for Novartis and received speaker honoraria from Bayer, Leo Pharma, Novartis, and Sanofi; Dr. Cihan Ay reports he has participated as a member of the Advisory Board for Bayer, Daiichi‐Sankyo, BMS/ Pfizer, and Boehringer Ingelheim; and has received speaker hono‐ raria from Bayer, Daiichi‐Sankyo, BMS/Pfizer, and Sanofi; Dr. Jordan Schaefer reports no conflict of interest during the conduct of the study; Dr. Marc Carrier reports that he has participated as a member of the Advisory Board for Sanofi Aventis, Leo Pharma, Bayer, Aspen, and Pfizer; has received speaker honoraria from Bayer, Pfizer, LEO Pharma, Sanofi, Boehringer Ingelheim, and Servier; and is participat‐ ing in or has participated in a clinical trial within the past 2 years with Leo Pharma, Bristol‐Myers Squibb, Bayer, and Octapharma; Dr. Simon Noble reports he has received speaker's bureau fees from Pfizer, Daiichi Sankyo, and Bayer, and advisory board fees from Daiichi Sankyo.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > CONFLICT OF INTERESTS",
+      "chunk_type": "prose",
+      "source_line": 169
+    },
+    "chunk_id": 33
+  },
+  {
+    "text": "All authors contributed to the concept, design, data interpreta‐ tion, writing of the manuscript, and final approval of the submitted version.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > AUTHOR CONTRIBUTIONS",
+      "chunk_type": "prose",
+      "source_line": 177
+    },
+    "chunk_id": 34
+  },
+  {
+    "text": "_Aurelien Delluc_ https://orcid.org/0000‐0003‐0227‐1245 _Tzu‐Fei Wang_ https://orcid.org/0000‐0003‐2407‐9000 _Cihan Ay_ https://orcid.org/0000‐0003‐2607‐9717",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > ORCID",
+      "chunk_type": "prose",
+      "source_line": 181
+    },
+    "chunk_id": 35
+  },
+  {
+    "text": "1. Tufano A, Galderisi M, Esposito L, Trimarco V, Sorriento D, Gerusalem G, et al. Anticancer drug‐related Nonvalvular atrial fibrillation: challenges in management and antithrombotic strate‐ gies. Semin Thromb Hemost. 2018;44(4):388–96. 2. Flegel KM, Shipley MJ, Rose G. Risk of stroke in non‐rheumatic atrial fibrillation. Lancet. 1987;1(8532):526–9. 3. Wolf PA, Dawber TR, Thomas HE Jr, Kannel WB. Epidemiologic assessment of chronic atrial fibrillation and risk of stroke: the Framingham study. Neurology. 1978;28(10):973–7. 4. Johnstone C, Rich SE. Bleeding in cancer patients and its treatment: a review. Ann Palliat Med. 2018;7(2):265–73. 5. Avvisati G, Tirindelli MC, Annibali O. Thrombocytopenia and hemorrhagic risk in cancer patients. Crit Rev Oncol Hematol. 2003;48(Suppl):S13–6.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 185
+    },
+    "chunk_id": 36
+  },
+  {
+    "text": "6. Miller KD, Siegel RL, Lin CC, Mariotto AB, Kramer JL, Rowland JH, et al. Cancer treatment and survivorship statistics, 2016. CA Cancer J Clin. 2016;66(4):271–89. 7. Shatzel JJ, Olson SR, Tao DL, McCarty OJT, Danilov AV, DeLoughery TG. Ibrutinib‐associated bleeding: pathogenesis, management and risk reduction strategies. J Thromb Haemost. 2017;15(5):835–47. 8. Tullemans BME, Heemskerk JWM, Kuijpers MJE. Acquired plate‐ let antagonism: off‐target antiplatelet effects of malignancy treatment with tyrosine kinase inhibitors. J Thromb Haemost. 2018;16(9):1686–99. 9. Wang SY, Long JB, Hurria A, Owusu C, Steingart RM, Gross CP, et al. Cardiovascular events, early discontinuation of trastu‐ zumab, and their impact on survival. Breast Cancer Res Treat. 2014;146(2):411–9.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 195
+    },
+    "chunk_id": 37
+  },
+  {
+    "text": "10. Brown JR, Moslehi J, O'Brien S, Ghia P, Hillmen P, Cymbalista F, et al. Characterization of atrial fibrillation adverse events reported in ibrutinib randomized controlled registration trials. Haematologica. 2017;102(10):1796–805. 11. Wiczer TE, Levine LB, Brumbaugh J, Coggins J, Zhao Q, Ruppert AS, et al. Cumulative incidence, risk factors, and management of atrial fibrillation in patients receiving ibrutinib. Blood Adv. 2017;1(20):1739–48. 12. Hu YF, Liu CJ, Chang PM, Tsao HM, Lin YJ, Chang SL, et al. Incident thromboembolism and heart failure associated with new‐onset atrial fibrillation in cancer patients. Int J Cardiol. 2013;165(2):355–7. 13. Gage BF, Yan Y, Milligan PE, Waterman AD, Culverhouse R, Rich MW, et al. Clinical classification schemes for predicting hem‐ orrhage: results from the National Registry of Atrial Fibrillation (NRAF). Am Heart J. 2006;151(3):713–9.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 203
+    },
+    "chunk_id": 38
+  },
+  {
+    "text": "14. Pisters R, Lane DA, Nieuwlaat R, de Vos CB, Crijns HJ, Lip GY. A novel user‐friendly score (HAS‐BLED) to assess 1‐year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey. Chest. 2010;138(5):1093–100. 15. D'Souza M, Carlson N, Fosbol E, Lamberts M, Smedegaard L, Nielsen D, et al. CHA2DS2‐VASc score and risk of thromboembo‐ lism and bleeding in patients with atrial fibrillation and recent can‐ cer. Eur J Prev Cardiol. 2018;25(6):651–8. 16. Tafur AJ, McBane R 2nd, Wysokinski WE, Litin S, Daniels P, Slusser J, et al. Predictors of major bleeding in peri‐procedural anticoagula‐ tion management. J Thromb Haemost. 2012;10(2):261–7. 17. Navi BB, Reiner AS, Kamel H, Iadecola C, Okin PM, Elkind MSV, et al. Risk of arterial thromboembolism in patients with cancer. J Am Coll Cardiol. 2017;70(8):926–38.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 211
+    },
+    "chunk_id": 39
+  },
+  {
+    "text": "18. Navi BB, Reiner AS, Kamel H, Iadecola C, Elkind MS, Panageas KS, et al. Association between incident cancer and subsequent stroke. Ann Neurol. 2015;77(2):291–300. 19. Hart RG, Pearce LA, Aguilar MI. Meta‐analysis: antithrombotic therapy to prevent stroke in patients who have nonvalvular atrial fibrillation. Ann Intern Med. 2007;146(12):857–67. 20. Hutten BA, Prins MH, Gent M, Ginsberg J, Tijssen JG, Buller HR. Incidence of recurrent thromboembolic and bleeding complications among patients with venous thromboembolism in relation to both malignancy and achieved international normalized ratio: a retro‐ spective analysis. J Clin Oncol. 2000;18(17):3078–83.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 219
+    },
+    "chunk_id": 40
+  },
+  {
+    "text": "21. Rose AJ, Hylek EM, Ozonoff A, Ash AS, Reisman JI, Berlowitz DR. Patient characteristics associated with oral anticoagulation control: results of the Veterans AffaiRs Study to Improve Anticoagulation (VARIA). J Thromb Haemost. 2010;8(10):2182–91. 22. Rose AJ, Sharman JP, Ozonoff A, Henault LE, Hylek EM. Effectiveness of warfarin among patients with cancer. J Gen Intern Med. 2007;22(7):997–1002. 23. Ambrus DB, Reisman JI, Rose AJ. The impact of new‐onset cancer among veterans who are receiving warfarin for atrial fibrillation and venous thromboembolism. Thromb Res. 2016;144:21–6. 24. Noble SI, Finlay IG. Is long‐term low‐molecular‐weight heparin ac‐ ceptable to palliative care patients in the treatment of cancer re‐ lated venous thromboembolism? A qualitative study. Palliat Med. 2005;19(3):197–201.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 225
+    },
+    "chunk_id": 41
+  },
+  {
+    "text": "25. Connolly SJ, Ezekowitz MD, Yusuf S, Eikelboom J, Oldgren J, Parekh A, et al. Dabigatran versus warfarin in patients with atrial fibrilla‐ tion. N Engl J Med. 2009;361(12):1139–51. 26. Giugliano RP, Ruff CT, Braunwald E, Murphy SA, Wiviott SD, Halperin JL, et al. Edoxaban versus warfarin in patients with atrial fibrillation. N Engl J Med. 2013;369(22):2093–104. 27. Granger CB, Alexander JH, McMurray JJ, Lopes RD, Hylek EM, Hanna M, et al. Apixaban versus warfarin in patients with atrial fibrillation. N Engl J Med. 2011;365(11):981–92. 28. Patel MR, Mahaffey KW, Garg J, Pan G, Singer DE, Hacke W, et al. Rivaroxaban versus warfarin in nonvalvular atrial fibrillation. N Engl J Med. 2011;365(10):883–91.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 233
+    },
+    "chunk_id": 42
+  },
+  {
+    "text": "29. Ruff CT, Giugliano RP, Braunwald E, Hoffman EB, Deenadayalu N, Ezekowitz MD, et al. Comparison of the efficacy and safety of new oral anticoagulants with warfarin in patients with atrial fibrillation: a meta‐analysis of randomised trials. Lancet. 2014;383(9921):955–62. 30. Chen ST, Hellkamp AS, Becker RC, Berkowitz SD, Breithardt G, Fox KAA, et al. Efficacy and safety of rivaroxaban versus warfarin in pa‐ tients with Nonvalvular atrial fibrillation and a history of cancer: ob‐ servations from ROCKET AF. Eur Heart J Qual Care Clin Outcomes. 2019;5(2):145–52. 31. Melloni C, Dunning A, Granger CB, Thomas L, Khouri MG, Garcia DA, et al. Efficacy and safety of apixaban versus warfarin in pa‐ tients with atrial fibrillation and a history of cancer: insights from the ARISTOTLE trial. Am J Med. 2017;130(12):1440–8.e1.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 241
+    },
+    "chunk_id": 43
+  },
+  {
+    "text": "32. Fanola CL, Ruff CT, Murphy SA, Jin J, Duggal A, Babilonia NA, et al. Efficacy and safety of edoxaban in patients with active malignancy and atrial fibrillation: analysis of the ENGAGE AF‐TIMI 48 trial. J Am Heart Assoc. 2018;7(16):e008987. 1252 | DELLUC Et aL. 33. Shah S, Norby FL, Datta YH, Lutsey PL, MacLehose RF, Chen LY, et al. Comparative effectiveness of direct oral anticoagulants and warfarin in patients with cancer and atrial fibrillation. Blood Adv. 2018;2(3):200–9. 34. Raskob GE, van Es N, Verhamme P, Carrier M, Di Nisio M, Garcia D, et al. Edoxaban for the treatment of cancer‐associated venous thromboembolism. N Engl J Med. 2018;378(7):615–24.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 247
+    },
+    "chunk_id": 44
+  },
+  {
+    "text": "35. Young AM, Marshall A, Thirlwall J, Chapman O, Lokare A, Hill C, et al. Comparison of an oral factor Xa inhibitor with low molecu‐ lar weight heparin in patients with cancer with venous thrombo‐ embolism: results of a randomized trial (SELECT‐D). J Clin Oncol. 2018;36:2017–23. 36. Khorana AA, Noble S, Lee AYY, Soff G, Meyer G, O'Connell C, et al. Role of direct oral anticoagulants in the treatment of cancer‐associ‐ ated venous thromboembolism: guidance from the SSC of the ISTH. J Thromb Haemost. 2018;16:1891–4. 37. Steinberg BA, Peterson ED, Kim S, Thomas L, Gersh BJ, Fonarow GC, et al. Use and outcomes associated with bridging during anticoagulation interruptions in patients with atrial fibrilla‐ tion: findings from the Outcomes Registry for Better Informed Treatment of Atrial Fibrillation (ORBIT‐AF). Circulation. 2015;131(5):488–94.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 257
+    },
+    "chunk_id": 45
+  },
+  {
+    "text": "38. Douketis JD, Spyropoulos AC, Kaatz S, Becker RC, Caprini JA, Dunn AS, et al. Perioperative bridging anticoagulation in patients with atrial fibrillation. N Engl J Med. 2015;373(9):823–33. 39. Vedovati MC, Giustozzi M, Verdecchia P, Pierpaoli L, Conti S, Verso M, et al. Patients with cancer and atrial fibrillation treated with doacs: a prospective cohort study. Int J Cardiol. 2018;269:152–7. 40. Noble S, Matzdorff A, Maraveyas A, Holm MV, Pisa G. Assessing patients’ anticoagulation preferences for the treatment of cancer‐ associated thrombosis using conjoint methodology. Haematologica. 2015;100(11):1486–92. 41. Noble S, Prout H, Nelson A. Patients’ Experiences of LIving with CANcer‐associated thrombosis: the PELICAN study. Patient Prefer Adherence. 2015;9:337–45.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 263
+    },
+    "chunk_id": 46
+  },
+  {
+    "text": "42. Seaman S, Nelson A, Noble S. Cancer‐associated thrombosis, low‐ molecular‐weight heparin, and the patient experience: a qualitative study. Patient Prefer Adherence. 2014;8:453–61. 43. Partridge AH, Burstein HJ, Winer EP. Side effects of chemotherapy and combined chemohormonal therapy in women with early‐stage breast cancer. J Natl Cancer Inst Monogr. 2001;30:135–42. 44. Chovanec M, Hanna N, Cary KC, Einhorn L, Albany C. Management of stage I testicular germ cell tumours. Nat Rev Urol. 2016;13(11):663–73.",
+    "metadata": {
+      "source_guideline": "ISTH_cancer",
+      "section": "Anticoagulation of cancer patients with non‐valvular atrial fibrillation receiving chemotherapy: Guidance from the SSC of the ISTH > 1.4 | Guidance statement > REFERENCES",
+      "chunk_type": "prose",
+      "source_line": 271
+    },
+    "chunk_id": 47
+  }
+]
