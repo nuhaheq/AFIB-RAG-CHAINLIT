@@ -6,8 +6,8 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from google import genai
 
-# Fungsi penyinkronan untuk memuatkan FAISS
-def sync_load_vectorstores():
+# Load FAISS vectorstores in background thread
+def load_vectorstores():
     zip_files = [f for f in os.listdir('.') if f.endswith('.zip')]
     extract_dirs = []
     for z_file in zip_files:
@@ -33,14 +33,18 @@ def sync_load_vectorstores():
 
 @cl.on_chat_start
 async def start():
-    # Memproses FAISS dalam thread berasingan supaya ASGI tidak crash
-    vectorstores = await asyncio.to_thread(sync_load_vectorstores)
+    msg = cl.Message(content="Memuatkan pangkalan data garis panduan AFib... Sila tunggu sebentar.")
+    await msg.send()
+
+    # Run blocking loading task safely using asyncio thread
+    vectorstores = await asyncio.to_thread(load_vectorstores)
     cl.user_session.set("vectorstores", vectorstores)
-    await cl.Message(content="Sistem Pembantu Klinikal AFib (Multi-Guideline RAG) sedia digunakan. Sila kemukakan soalan anda.").send()
+
+    msg.content = "Sistem Pembantu Klinikal AFib (Multi-Guideline RAG) sedia digunakan. Sila kemukakan soalan klinikal anda."
+    await msg.update()
 
 
-# Fungsi penyinkronan untuk pencarian FAISS
-def sync_search_docs(vectorstores, user_query):
+def search_docs(vectorstores, user_query):
     all_retrieved_docs = []
     for db in vectorstores:
         docs = db.similarity_search(user_query, k=3)
@@ -55,8 +59,7 @@ def sync_search_docs(vectorstores, user_query):
     return unique_docs
 
 
-# Fungsi penyinkronan untuk panggilan Gemini API
-def sync_call_gemini(system_prompt):
+def call_gemini(system_prompt):
     api_key = os.environ.get("GEMINI_API_KEY")
     client = genai.Client(api_key=api_key)
     return client.models.generate_content(
@@ -74,8 +77,8 @@ async def main(message: cl.Message):
     await msg.send()
 
     try:
-        # Jalankan pencarian FAISS
-        unique_docs = await asyncio.to_thread(sync_search_docs, vectorstores, user_query)
+        # 1. Search Vectorstore
+        unique_docs = await asyncio.to_thread(search_docs, vectorstores, user_query)
 
         context_text = "\n".join([
             f"- [{doc.metadata.get('source', 'Guideline')} | {doc.metadata.get('section', 'General')}] {doc.page_content}"
@@ -100,9 +103,9 @@ USER QUERY: {user_query}
 ANSWER:
 """
 
-        # Jalankan panggilan API Gemini
-        response = await asyncio.to_thread(sync_call_gemini, system_prompt)
-        
+        # 2. Call Gemini
+        response = await asyncio.to_thread(call_gemini, system_prompt)
+
         msg.content = response.text
         await msg.update()
 
