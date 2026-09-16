@@ -1,0 +1,8 @@
+[project]
+enable_telemetry = false
+
+[UI]
+name = "AFib Clinical Decision Support"
+
+[meta]
+generated_by = "1.0.0"
