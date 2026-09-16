@@ -5,3 +5,4 @@ langchain-core
 faiss-cpu
 sentence-transformers
 google-genai
+uvicorn
